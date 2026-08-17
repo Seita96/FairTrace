@@ -1,0 +1,5 @@
+goal_id,employee_id,title,goal_type,baseline_value,target_value,actual_value,unit,direction,measurement_source,review_schedule,sustained_months,situation,task,action,result,evidence,reviewer_note
+G001,E001,Reduce API latency,quantitative,200,100,120,ms,decrease,monitoring,Quarterly,6,,,,,,
+G002,E002,Introduce deployment standardization,qualitative,,,,,n/a,,0,Consolidated multiple deployment scripts,Create standard templates and guides,Implemented CI checks,Reduced manual steps,Deployed guide and templates across teams,Looks promising
+G003,E003,Expand feature X adoption,hybrid,50,200,300,users,increase,analytics,Monthly,12,High demand in market,Increase adoption via outreach,Led program to onboard partners,Adoption grew 6x,Partner reports and usage logs,Needs reviewer check
+G004,E001,Complex research spike,quantitative,0,1,0,tasks,increase,manual,Ad-hoc,0,,,,,,

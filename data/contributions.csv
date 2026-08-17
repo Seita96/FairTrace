@@ -1,0 +1,6 @@
+contribution_id,goal_id,contribution_date,evaluation_date,moved_flag,later_impact
+C001,G001,2025-01-10,2025-01-20,False,False
+C002,G001,2025-02-15,2025-06-01,True,True
+C003,G002,2024-11-01,2025-02-01,False,True
+C004,G003,2024-05-01,2025-01-01,True,True
+C005,G004,2025-03-01,2025-03-02,False,False

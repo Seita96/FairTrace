@@ -1,0 +1,5 @@
+goal_id,change_reason,change_evidence,planned_technical_uncertainty,planned_novelty,planned_stakeholder_complexity,planned_impact_scope,planned_responsibility_risk,planned_constraints,planned_problem_discovery,planned_execution_complexity,planned_sustainability,planned_reproducibility,planned_ownership,planned_unexpected_response,actual_technical_uncertainty,actual_novelty,actual_stakeholder_complexity,actual_impact_scope,actual_responsibility_risk,actual_constraints,actual_problem_discovery,actual_execution_complexity,actual_sustainability,actual_reproducibility,actual_ownership,actual_unexpected_response,actual_standardization,actual_reusability
+G001,, ,3,2,3,4,3,2,3,4,2,2,3,2,3,2,3,4,3,2,3,4,2,2,High,Medium
+G002,, ,2,3,4,3,2,2,3,3,4,3,3,2,2,3,4,3,2,2,2,3,3,3,Low,High
+G003,Post-release scope expanded,Additional partner usage data 6 months later,3,4,3,4,3,2,3,3,4,3,3,2,4,3,4,5,4,3,3,4,3,3,3,Medium,High
+G004,, ,5,5,4,2,5,4,5,5,2,1,5,4,5,5,4,2,5,4,5,5,3,2,Low,Low
